@@ -1,3 +1,2 @@
-test :)
-
-/홍아랑 수정
+Hello
+hi! good afternoon
